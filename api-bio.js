@@ -10,7 +10,7 @@ let long;
 let lat;
 let reponse;
 let urlBase="https://back.agencebio.org/api/gouv/operateurs/";
-let url="https://back.agencebio.org/api/gouv/operateurs/" + "?nb=200";
+let url="https://back.agencebio.org/api/gouv/operateurs/" + "?q=annecy&nb=100";
 afficherResultats(1);
 
 // **********************************api pour trouver les communes avec le cp
