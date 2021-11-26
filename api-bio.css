@@ -1,0 +1,63 @@
+#formulaire {
+    height: auto;
+}
+#titre {
+    background-image: linear-gradient(rgba(220, 220, 220, 0.75), rgba(220, 220, 220, 0.7)), url('https://images.unsplash.com/photo-1579862715696-01a0aba3eb6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2157&q=80');
+}
+.b-radius {
+    border-radius: 8px;
+}
+
+
+.body{
+    background-image: linear-gradient(rgba(220, 220, 220, 0.75), rgba(220, 220, 220, 0.7)),url('https://images.unsplash.com/photo-1544399801-26566b814c16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80');
+}
+
+h1{
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 45px;
+    color: cadetblue;
+}
+
+.bg-vertkaki{
+    background-color: #2d662d;
+}
+
+.bg-vert1 {
+    background-color: #4d944d;
+}
+
+.bg-vert2 {
+    background-color: #5cb85c;
+    color: beige;
+}
+
+.bg-vert3{
+    background-color: rgba(113, 184, 103,0.5);
+}
+
+
+.btn-grad {background-image: linear-gradient(to right, #1D976C 0%, #93F9B9  51%, #1D976C  100%)}
+.btn-grad {
+
+
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.css-gif {
+    width: 192px;
+    height: 192px;
+}
+
+
